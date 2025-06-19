@@ -17,7 +17,7 @@ This project is designed to fetch data from LinkedIn profiles and generate ice b
 
 1. Depoyu klonlayın / Clone the repository:
    ```bash
-   git clone <repo-url>
+   git clone <https://github.com/burakKocabas03/LangChainWorkSpace/tree/1-start-here>
    cd LangChainWorkSpace
    ```
 
