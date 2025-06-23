@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+langchain = "*"
+langchain-community = "*"
+google-cloud-aiplatform = "*"
+langchain-google-vertexai = "*"
+python-dotenv = "*"
+black = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.13"
